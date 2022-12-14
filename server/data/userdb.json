@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Justin Elder",
+      "phoneNumber": "(425)923-4362",
+      "email": "justine@email.com"
+    },
+    {
+      "id": 2,
+      "name": "Kathleen Lordan",
+      "phoneNumber": "4258022164",
+      "email": "kathleen.lordan@email.com"
+    },
+    {
+      "id": 3,
+      "name": "Audrey Morris",
+      "phoneNumber": "(425)505-3382",
+      "email": "audrey@email.com"
+    },
+    {
+      "id": 4,
+      "name": "Holly Gene",
+      "phoneNumber": "3608596174",
+      "email": "hollygene@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "John Elder",
+      "phoneNumber": "(425)330-2032",
+      "email": "johne@showcasemi.com"
+    }
+  ]
+}
